@@ -1,0 +1,23 @@
+{
+  "name": "node-xinguan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cors": "^0.0.16",
+    "koa-json": "^2.0.2",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^10.1.1",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "silly-datetime": "^0.1.2"
+  }
+}
