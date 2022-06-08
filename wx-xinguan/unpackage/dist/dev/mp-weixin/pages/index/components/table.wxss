@@ -1,0 +1,35 @@
+
+.myCharts.data-v-bd644c2a{width: 100%;
+}
+.Dizhou-cont.data-v-bd644c2a {
+			margin: 20rpx 0;
+}
+.Dizhou.data-v-bd644c2a {
+			font-size: 30rpx;
+			font-weight: bold;
+}
+.tips.data-v-bd644c2a{font-size: 25rpx; height: 50rpx; line-height: 50rpx; color: #737373;}
+		/* 表格 */
+.table-cont.data-v-bd644c2a{display: flex; height: 70rpx;
+		align-items: center; justify-content: space-between;
+		font-size: 25rpx;}
+.table-cont text.data-v-bd644c2a{height: 70rpx; line-height: 70rpx; text-align: center;
+		border-right: 1px solid #fff;}
+.table-cont text.data-v-bd644c2a:nth-child(1){background: #f2f5f7; text-align: left; flex: 2; padding-left: 10rpx;}
+.table-cont text.data-v-bd644c2a:nth-child(2){background: #e8effc; color: #005dff; flex: 1;}
+.table-cont text.data-v-bd644c2a:nth-child(3){background: #fdeeee; color: #f55253; flex: 1;}
+.table-cont text.data-v-bd644c2a:nth-child(4){background: #e9f7ec; color: #178b50; flex: 1;}
+.table-cont text.data-v-bd644c2a:nth-child(5){background: #f2f2f2; color: #66666c; flex: 1;
+		border-right: 0;}
+		/* 确诊人数 */
+.table-datas text.data-v-bd644c2a{display: block;height: 70rpx; line-height: 70rpx; text-align: center;
+}
+.table-datas.data-v-bd644c2a{font-size: 27rpx;display: flex; height: 70rpx;
+		justify-content: space-between; align-items: center;
+		border-bottom: 0.5rpx solid #f2f2f2;}
+.table-datas text.data-v-bd644c2a:nth-child(1){text-align: left; flex: 2; padding-left: 10rpx;}
+.table-datas text.data-v-bd644c2a:nth-child(2){flex: 1;}
+.table-datas text.data-v-bd644c2a:nth-child(3){flex: 1;}
+.table-datas text.data-v-bd644c2a:nth-child(4){flex: 1;}
+.table-datas text.data-v-bd644c2a:nth-child(5){flex: 1;}
+

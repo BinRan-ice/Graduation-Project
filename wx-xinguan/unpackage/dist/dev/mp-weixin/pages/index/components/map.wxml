@@ -1,0 +1,1 @@
+<view class="Dizhou-cont data-v-6066ac8e"><view class="Dizhou data-v-6066ac8e">各市确诊数</view><view class="myCharts data-v-6066ac8e"><canvas class="charts data-v-6066ac8e" canvas-id="canvasPie" id="canvasPie" data-event-opts="{{[['touchstart',[['touchMap',['$event']]]]]}}" bindtouchstart="__e"></canvas></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "沈阳疫情追踪",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "m-a-p": "/pages/index/components/map",
+    "line": "/pages/index/components/brokenline",
+    "table": "/pages/index/components/table"
+  }
+}

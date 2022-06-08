@@ -1,0 +1,11 @@
+
+.myCharts.data-v-643763fc{width: 700rpx; height: 500rpx;}
+.charts.data-v-643763fc{width: 700rpx; height: 500rpx;}
+.Dizhou-cont.data-v-643763fc {
+		margin: 20rpx 0;
+}
+.Dizhou.data-v-643763fc {
+		font-size: 30rpx;
+		font-weight: bold;
+}
+
