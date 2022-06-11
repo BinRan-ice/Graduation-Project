@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "健康信息上报",
-  "usingComponents": {
-    "h-mmessages": "/components/HM-messages/HM-messages"
-  }
-}
